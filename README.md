@@ -4,16 +4,21 @@ Teensy Launchpad Drumsequencer
 
 This is a Teensy sketch for using the Launchpad mini (mk1) 
 as a drum sequencer in your daw or other production studio.
+
 As the Launchpad offers an 8x8 matrix i choosed to make 
 a 16-Step sequencer with 4 Tracks.
+
 The most upper Row lets you see the counter of the steps. 
 Green LED´s are the upper rows, Orange are the bottom rows 
 of the tracks.
+
 Each Track has a fill option, it is accessibla on the circled 
 button next to each tracks last step.
 
+
 to Do:
 Mute function on the circled button next to the 8th step
+
 
 
 You will need 3 Tracks
